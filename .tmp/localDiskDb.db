@@ -4,7 +4,10 @@
       {
         "name": "Mission Chinese Food",
         "neighborhood": "Manhattan",
-        "photograph": "1",
+        "photograph": {
+          "url": "1",
+          "alt": "A large room at Mission Chinese Food filled with many people at several tables"
+        },
         "address": "171 E Broadway, New York, NY 10002",
         "latlng": {
           "lat": 40.713829,
@@ -47,7 +50,10 @@
       {
         "name": "Emily",
         "neighborhood": "Brooklyn",
-        "photograph": "2",
+        "photograph": {
+          "url": "2",
+          "alt": "A large room at Mission Chinese Food filled with many people at several tables"
+        },
         "address": "919 Fulton St, Brooklyn, NY 11238",
         "latlng": {
           "lat": 40.683555,
@@ -90,7 +96,10 @@
       {
         "name": "Kang Ho Dong Baekjeong",
         "neighborhood": "Manhattan",
-        "photograph": "3",
+        "photograph": {
+          "url": "3",
+          "alt": "Empty chairs and empty tables at Kang Ho Dong Baekjeong restaurant"
+        },
         "address": "1 E 32nd St, New York, NY 10016",
         "latlng": {
           "lat": 40.747143,
@@ -133,7 +142,10 @@
       {
         "name": "Katz's Delicatessen",
         "neighborhood": "Manhattan",
-        "photograph": "4",
+        "photograph": {
+          "url": "4",
+          "alt": "Empty chairs and empty tables at Kang Ho Dong Baekjeong restaurant"
+        },
         "address": "205 E Houston St, New York, NY 10002",
         "latlng": {
           "lat": 40.722216,
@@ -176,7 +188,10 @@
       {
         "name": "Roberta's Pizza",
         "neighborhood": "Brooklyn",
-        "photograph": "5",
+        "photograph": {
+          "url": "5",
+          "alt": "Empty chairs and empty tables at Kang Ho Dong Baekjeong restaurant"
+        },
         "address": "261 Moore St, Brooklyn, NY 11206",
         "latlng": {
           "lat": 40.705089,
@@ -219,7 +234,10 @@
       {
         "name": "Hometown BBQ",
         "neighborhood": "Brooklyn",
-        "photograph": "6",
+        "photograph": {
+          "url": "6",
+          "alt": "Empty chairs and empty tables at Kang Ho Dong Baekjeong restaurant"
+        },
         "address": "454 Van Brunt St, Brooklyn, NY 11231",
         "latlng": {
           "lat": 40.674925,
@@ -262,7 +280,10 @@
       {
         "name": "Superiority Burger",
         "neighborhood": "Manhattan",
-        "photograph": "7",
+        "photograph": {
+          "url": "7",
+          "alt": "Empty chairs and empty tables at Kang Ho Dong Baekjeong restaurant"
+        },
         "address": "430 E 9th St, New York, NY 10009",
         "latlng": {
           "lat": 40.727397,
@@ -305,7 +326,10 @@
       {
         "name": "The Dutch",
         "neighborhood": "Manhattan",
-        "photograph": "8",
+        "photograph": {
+          "url": "8",
+          "alt": "Empty chairs and empty tables at Kang Ho Dong Baekjeong restaurant"
+        },
         "address": "131 Sullivan St, New York, NY 10012",
         "latlng": {
           "lat": 40.726584,
@@ -348,7 +372,10 @@
       {
         "name": "Mu Ramen",
         "neighborhood": "Queens",
-        "photograph": "9",
+        "photograph": {
+          "url": "9",
+          "alt": "Empty chairs and empty tables at Kang Ho Dong Baekjeong restaurant"
+        },
         "address": "1209 Jackson Ave, Queens, NY 11101",
         "latlng": {
           "lat": 40.743797,
@@ -391,6 +418,10 @@
       {
         "name": "Casa Enrique",
         "neighborhood": "Queens",
+        "photograph": {
+          "url": "10",
+          "alt": "Empty chairs and empty tables at Kang Ho Dong Baekjeong restaurant"
+        },
         "address": "5-48 49th Ave, Queens, NY 11101",
         "latlng": {
           "lat": 40.743394,
